@@ -17,3 +17,6 @@ Make your tokens realistic
 > Feel Free To Create Issue Or Pull Request
 > Still Want Support?
 > Auth#1337 On Discord or [My Server](https://discord.gg/lgnop)
+
+# Donation
+> Contact On Discord Or Telegram
