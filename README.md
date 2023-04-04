@@ -13,6 +13,9 @@ Make your tokens realistic
 > Do Configuration In `config.json` File
 > If You Want To Change Usernames Then You Need To Add Tokens In This Format `token:password`
 
+# Support Us
+> Please Don't Forget To Star The Repository & Follow Me.
+
 # Support 
 > Feel Free To Create Issue Or Pull Request
 > Still Want Support?
