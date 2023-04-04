@@ -1,0 +1,7 @@
+{
+  "ChangeNames": true,
+  "ChangeBio": true,
+  "ChangePic": true,
+  "ChangeHypeSquad": true,
+  "MaxWorkers": "10_000"
+}
