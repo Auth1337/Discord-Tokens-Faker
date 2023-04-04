@@ -1,0 +1,7 @@
+aiohttp
+colorama
+fake_useragent
+requests
+faker
+tasksio
+pyfiglet
