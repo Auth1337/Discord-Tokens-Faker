@@ -12,6 +12,7 @@ Make your tokens realistic
 # Usage
 > Do Configuration In `config.json` File
 > If You Want To Change Usernames Then You Need To Add Tokens In This Format `token:password`
+> Run it Using `python main.py`
 
 # Support Us
 > Please Don't Forget To Star The Repository & Follow Me.
